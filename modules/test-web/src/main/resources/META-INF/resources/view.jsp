@@ -4,4 +4,6 @@
 	<b><liferay-ui:message key="testweb.caption"/></b>
 	
 	<h1>Hello last testing og git</h1>
+	
+	<h2>Final esting</h2>
 </p>

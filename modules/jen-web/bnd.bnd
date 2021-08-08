@@ -1,0 +1,4 @@
+Bundle-Name: jen-web
+Bundle-SymbolicName: jen.web
+Bundle-Version: 1.0.0
+Export-Package: jen.web.constants
